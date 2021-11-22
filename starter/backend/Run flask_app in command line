@@ -1,0 +1,11 @@
+> set FLASK_APP=hello
+> set FLASK_ENV=development
+> flask run
+
+somehow command line doesn't work
+switch to PowerShell
+
+ $env:FLASK_APP = "flaskr"
+ $env:FLASK_ENV = "development"
+ python -m flask run
+ it should run now

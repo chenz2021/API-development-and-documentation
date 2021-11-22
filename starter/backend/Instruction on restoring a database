@@ -1,0 +1,13 @@
+C:\Program Files\PostgreSQL\9.2\bin>psql.exe -U postgres
+psql (9.2.4)
+Type "help" for help.
+sql terminal
+connect to desired database (use CREATE DATABASE xxx if it doesn't exist already)
+Say we're now connected to db "postgres"
+postgres=# \i c:\temp\try1.sql
+c:: Permission denied
+postgres=# \i c:/temp/try1.sql
+CREATE TABLE
+postgres=#
+
+

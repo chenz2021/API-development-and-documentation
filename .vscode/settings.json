@@ -1,0 +1,9 @@
+{
+    "python.formatting.autopep8Args": [
+        "\"python.formatting.provider\": \"autopep8\""
+    ],
+    "linter.cache": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modificationsIfAvailable"
+}
